@@ -1,0 +1,901 @@
+home_team,away_team,home_score,away_score,tournament,city,country,neutral,year,Total goals in a match
+Belgium,United States,0,3,FIFA World Cup,Montevideo,Uruguay,True,1930,3
+France,Mexico,4,1,FIFA World Cup,Montevideo,Uruguay,True,1930,5
+Brazil,Yugoslavia,1,2,FIFA World Cup,Montevideo,Uruguay,True,1930,3
+Peru,Romania,1,3,FIFA World Cup,Montevideo,Uruguay,True,1930,4
+Argentina,France,1,0,FIFA World Cup,Montevideo,Uruguay,True,1930,1
+Chile,Mexico,3,0,FIFA World Cup,Montevideo,Uruguay,True,1930,3
+Bolivia,Yugoslavia,0,4,FIFA World Cup,Montevideo,Uruguay,True,1930,4
+Paraguay,United States,0,3,FIFA World Cup,Montevideo,Uruguay,True,1930,3
+Uruguay,Peru,1,0,FIFA World Cup,Montevideo,Uruguay,False,1930,1
+Argentina,Mexico,6,3,FIFA World Cup,Montevideo,Uruguay,True,1930,9
+Chile,France,1,0,FIFA World Cup,Montevideo,Uruguay,True,1930,1
+Belgium,Paraguay,0,1,FIFA World Cup,Montevideo,Uruguay,True,1930,1
+Bolivia,Brazil,0,4,FIFA World Cup,Montevideo,Uruguay,True,1930,4
+Uruguay,Romania,4,0,FIFA World Cup,Montevideo,Uruguay,False,1930,4
+Argentina,Chile,3,1,FIFA World Cup,Montevideo,Uruguay,True,1930,4
+Argentina,United States,6,1,FIFA World Cup,Montevideo,Uruguay,True,1930,7
+Uruguay,Yugoslavia,6,1,FIFA World Cup,Montevideo,Uruguay,False,1930,7
+Uruguay,Argentina,4,2,FIFA World Cup,Montevideo,Uruguay,False,1930,6
+Argentina,Sweden,2,3,FIFA World Cup,Bologna,Italy,True,1934,5
+Austria,France,3,2,FIFA World Cup,Turin,Italy,True,1934,5
+Belgium,Germany,2,5,FIFA World Cup,Florence,Italy,True,1934,7
+Brazil,Spain,1,3,FIFA World Cup,Genoa,Italy,True,1934,4
+Czechoslovakia,Romania,2,1,FIFA World Cup,Trieste,Italy,True,1934,3
+Egypt,Hungary,2,4,FIFA World Cup,Naples,Italy,True,1934,6
+Italy,United States,7,1,FIFA World Cup,Rome,Italy,False,1934,8
+Netherlands,Switzerland,2,3,FIFA World Cup,Milan,Italy,True,1934,5
+Austria,Hungary,2,1,FIFA World Cup,Bologna,Italy,True,1934,3
+Czechoslovakia,Switzerland,3,2,FIFA World Cup,Turin,Italy,True,1934,5
+Germany,Sweden,2,1,FIFA World Cup,Milan,Italy,True,1934,3
+Italy,Spain,1,1,FIFA World Cup,Florence,Italy,False,1934,2
+Italy,Spain,1,0,FIFA World Cup,Florence,Italy,False,1934,1
+Czechoslovakia,Germany,3,1,FIFA World Cup,Rome,Italy,True,1934,4
+Italy,Austria,1,0,FIFA World Cup,Milan,Italy,False,1934,1
+Austria,Germany,2,3,FIFA World Cup,Naples,Italy,True,1934,5
+Italy,Czechoslovakia,2,1,FIFA World Cup,Rome,Italy,False,1934,3
+Germany,Switzerland,1,1,FIFA World Cup,Paris,France,True,1938,2
+Brazil,Poland,6,5,FIFA World Cup,Strasbourg,France,True,1938,11
+Cuba,Romania,3,3,FIFA World Cup,Toulouse,France,True,1938,6
+Czechoslovakia,Netherlands,3,0,FIFA World Cup,Le Havre,France,True,1938,3
+France,Belgium,3,1,FIFA World Cup,Colombes,France,False,1938,4
+Hungary,Indonesia,6,0,FIFA World Cup,Reims,France,True,1938,6
+Italy,Norway,2,1,FIFA World Cup,Marseille,France,True,1938,3
+Cuba,Romania,2,1,FIFA World Cup,Toulouse,France,True,1938,3
+Germany,Switzerland,2,4,FIFA World Cup,Paris,France,True,1938,6
+Brazil,Czechoslovakia,1,1,FIFA World Cup,Bordeaux,France,True,1938,2
+Cuba,Sweden,0,8,FIFA World Cup,Antibes,France,True,1938,8
+France,Italy,1,3,FIFA World Cup,Colombes,France,False,1938,4
+Hungary,Switzerland,2,0,FIFA World Cup,Lille,France,True,1938,2
+Brazil,Czechoslovakia,2,1,FIFA World Cup,Bordeaux,France,True,1938,3
+Brazil,Italy,1,2,FIFA World Cup,Marseille,France,True,1938,3
+Hungary,Sweden,5,1,FIFA World Cup,Paris,France,True,1938,6
+Brazil,Sweden,4,2,FIFA World Cup,Bordeaux,France,True,1938,6
+Hungary,Italy,2,4,FIFA World Cup,Colombes,France,True,1938,6
+Brazil,Mexico,4,0,FIFA World Cup,Rio de Janeiro,Brazil,False,1950,4
+Chile,England,0,2,FIFA World Cup,Rio de Janeiro,Brazil,True,1950,2
+Italy,Sweden,2,3,FIFA World Cup,São Paulo,Brazil,True,1950,5
+Spain,United States,3,1,FIFA World Cup,Curitiba,Brazil,True,1950,4
+Switzerland,Yugoslavia,0,3,FIFA World Cup,Belo Horizonte,Brazil,True,1950,3
+Brazil,Switzerland,2,2,FIFA World Cup,São Paulo,Brazil,False,1950,4
+Mexico,Yugoslavia,1,4,FIFA World Cup,Porto Alegre,Brazil,True,1950,5
+Chile,Spain,0,2,FIFA World Cup,Rio de Janeiro,Brazil,True,1950,2
+England,United States,0,1,FIFA World Cup,Belo Horizonte,Brazil,True,1950,1
+Paraguay,Sweden,2,2,FIFA World Cup,Curitiba,Brazil,True,1950,4
+Brazil,Yugoslavia,2,0,FIFA World Cup,Rio de Janeiro,Brazil,False,1950,2
+Bolivia,Uruguay,0,8,FIFA World Cup,Belo Horizonte,Brazil,True,1950,8
+Chile,United States,5,2,FIFA World Cup,Recife,Brazil,True,1950,7
+England,Spain,0,1,FIFA World Cup,Rio de Janeiro,Brazil,True,1950,1
+Italy,Paraguay,2,0,FIFA World Cup,São Paulo,Brazil,True,1950,2
+Mexico,Switzerland,1,2,FIFA World Cup,Porto Alegre,Brazil,True,1950,3
+Brazil,Sweden,7,1,FIFA World Cup,Rio de Janeiro,Brazil,False,1950,8
+Spain,Uruguay,2,2,FIFA World Cup,São Paulo,Brazil,True,1950,4
+Brazil,Spain,6,1,FIFA World Cup,Rio de Janeiro,Brazil,False,1950,7
+Sweden,Uruguay,2,3,FIFA World Cup,São Paulo,Brazil,True,1950,5
+Brazil,Uruguay,1,2,FIFA World Cup,Rio de Janeiro,Brazil,False,1950,3
+Spain,Sweden,1,3,FIFA World Cup,São Paulo,Brazil,True,1950,4
+Austria,Scotland,1,0,FIFA World Cup,Zürich,Switzerland,True,1954,1
+Brazil,Mexico,5,0,FIFA World Cup,Geneva,Switzerland,True,1954,5
+Czechoslovakia,Uruguay,0,2,FIFA World Cup,Berne,Switzerland,True,1954,2
+France,Yugoslavia,0,1,FIFA World Cup,Lausanne,Switzerland,True,1954,1
+Belgium,England,4,4,FIFA World Cup,Basel,Switzerland,True,1954,8
+Germany,Turkey,4,1,FIFA World Cup,Berne,Switzerland,True,1954,5
+Hungary,South Korea,9,0,FIFA World Cup,Zürich,Switzerland,True,1954,9
+Switzerland,Italy,2,1,FIFA World Cup,Lausanne,Switzerland,False,1954,3
+Austria,Czechoslovakia,5,0,FIFA World Cup,Zürich,Switzerland,True,1954,5
+Brazil,Yugoslavia,1,1,FIFA World Cup,Lausanne,Switzerland,True,1954,2
+France,Mexico,3,2,FIFA World Cup,Geneva,Switzerland,True,1954,5
+Scotland,Uruguay,0,7,FIFA World Cup,Basel,Switzerland,True,1954,7
+Belgium,Italy,1,4,FIFA World Cup,Lugano,Switzerland,True,1954,5
+Germany,Hungary,3,8,FIFA World Cup,Basel,Switzerland,True,1954,11
+South Korea,Turkey,0,7,FIFA World Cup,Geneva,Switzerland,True,1954,7
+Switzerland,England,0,2,FIFA World Cup,Berne,Switzerland,False,1954,2
+Germany,Turkey,7,2,FIFA World Cup,Zürich,Switzerland,True,1954,9
+Switzerland,Italy,4,1,FIFA World Cup,Basel,Switzerland,False,1954,5
+England,Uruguay,2,4,FIFA World Cup,Basel,Switzerland,True,1954,6
+Switzerland,Austria,5,7,FIFA World Cup,Lausanne,Switzerland,False,1954,12
+Brazil,Hungary,2,4,FIFA World Cup,Berne,Switzerland,True,1954,6
+Germany,Yugoslavia,2,0,FIFA World Cup,Geneva,Switzerland,True,1954,2
+Austria,Germany,1,6,FIFA World Cup,Basel,Switzerland,True,1954,7
+Hungary,Uruguay,4,2,FIFA World Cup,Lausanne,Switzerland,True,1954,6
+Austria,Uruguay,3,1,FIFA World Cup,Zürich,Switzerland,True,1954,4
+Germany,Hungary,3,2,FIFA World Cup,Berne,Switzerland,True,1954,5
+Argentina,Germany,1,3,FIFA World Cup,Malmö,Sweden,True,1958,4
+Austria,Brazil,0,3,FIFA World Cup,Uddevalla,Sweden,True,1958,3
+Czechoslovakia,Northern Ireland,0,1,FIFA World Cup,Halmstad,Sweden,True,1958,1
+England,Russia,2,2,FIFA World Cup,Gothenburg,Sweden,True,1958,4
+France,Paraguay,7,3,FIFA World Cup,Norrköping,Sweden,True,1958,10
+Hungary,Wales,1,1,FIFA World Cup,Sandviken,Sweden,True,1958,2
+Scotland,Yugoslavia,1,1,FIFA World Cup,Västerås,Sweden,True,1958,2
+Sweden,Mexico,3,0,FIFA World Cup,Solna,Sweden,False,1958,3
+Argentina,Northern Ireland,3,1,FIFA World Cup,Halmstad,Sweden,True,1958,4
+Austria,Russia,0,2,FIFA World Cup,Borås,Sweden,True,1958,2
+Brazil,England,0,0,FIFA World Cup,Gothenburg,Sweden,True,1958,0
+Czechoslovakia,Germany,2,2,FIFA World Cup,Helsingborg,Sweden,True,1958,4
+France,Yugoslavia,2,3,FIFA World Cup,Västerås,Sweden,True,1958,5
+Mexico,Wales,1,1,FIFA World Cup,Solna,Sweden,True,1958,2
+Paraguay,Scotland,3,2,FIFA World Cup,Norrköping,Sweden,True,1958,5
+Sweden,Hungary,2,1,FIFA World Cup,Solna,Sweden,False,1958,3
+Argentina,Czechoslovakia,1,6,FIFA World Cup,Helsingborg,Sweden,True,1958,7
+Austria,England,2,2,FIFA World Cup,Borås,Sweden,True,1958,4
+Brazil,Russia,2,0,FIFA World Cup,Gothenburg,Sweden,True,1958,2
+France,Scotland,2,1,FIFA World Cup,Örebro,Sweden,True,1958,3
+Germany,Northern Ireland,2,2,FIFA World Cup,Malmö,Sweden,True,1958,4
+Hungary,Mexico,4,0,FIFA World Cup,Sandviken,Sweden,True,1958,4
+Paraguay,Yugoslavia,3,3,FIFA World Cup,Eskilstuna,Sweden,True,1958,6
+Sweden,Wales,0,0,FIFA World Cup,Solna,Sweden,False,1958,0
+Czechoslovakia,Northern Ireland,1,2,FIFA World Cup,Malmö,Sweden,True,1958,3
+England,Russia,0,1,FIFA World Cup,Gothenburg,Sweden,True,1958,1
+Hungary,Wales,1,2,FIFA World Cup,Solna,Sweden,True,1958,3
+Brazil,Wales,1,0,FIFA World Cup,Gothenburg,Sweden,True,1958,1
+France,Northern Ireland,4,0,FIFA World Cup,Norrköping,Sweden,True,1958,4
+Germany,Yugoslavia,1,0,FIFA World Cup,Malmö,Sweden,True,1958,1
+Sweden,Russia,2,0,FIFA World Cup,Solna,Sweden,False,1958,2
+Brazil,France,5,2,FIFA World Cup,Solna,Sweden,True,1958,7
+Sweden,Germany,3,1,FIFA World Cup,Gothenburg,Sweden,False,1958,4
+France,Germany,6,3,FIFA World Cup,Gothenburg,Sweden,True,1958,9
+Sweden,Brazil,2,5,FIFA World Cup,Solna,Sweden,False,1958,7
+Argentina,Bulgaria,1,0,FIFA World Cup,Rancagua,Chile,True,1962,1
+Brazil,Mexico,2,0,FIFA World Cup,Viña del Mar,Chile,True,1962,2
+Chile,Switzerland,3,1,FIFA World Cup,Santiago,Chile,False,1962,4
+Colombia,Uruguay,1,2,FIFA World Cup,Arica,Chile,True,1962,3
+Czechoslovakia,Spain,1,0,FIFA World Cup,Viña del Mar,Chile,True,1962,1
+England,Hungary,1,2,FIFA World Cup,Rancagua,Chile,True,1962,3
+Germany,Italy,0,0,FIFA World Cup,Santiago,Chile,True,1962,0
+Russia,Yugoslavia,2,0,FIFA World Cup,Arica,Chile,True,1962,2
+Argentina,England,1,3,FIFA World Cup,Rancagua,Chile,True,1962,4
+Brazil,Czechoslovakia,0,0,FIFA World Cup,Viña del Mar,Chile,True,1962,0
+Chile,Italy,2,0,FIFA World Cup,Santiago,Chile,False,1962,2
+Uruguay,Yugoslavia,1,3,FIFA World Cup,Arica,Chile,True,1962,4
+Bulgaria,Hungary,1,6,FIFA World Cup,Rancagua,Chile,True,1962,7
+Colombia,Russia,4,4,FIFA World Cup,Arica,Chile,True,1962,8
+Germany,Switzerland,2,1,FIFA World Cup,Santiago,Chile,True,1962,3
+Mexico,Spain,0,1,FIFA World Cup,Viña del Mar,Chile,True,1962,1
+Argentina,Hungary,0,0,FIFA World Cup,Rancagua,Chile,True,1962,0
+Brazil,Spain,2,1,FIFA World Cup,Viña del Mar,Chile,True,1962,3
+Chile,Germany,0,2,FIFA World Cup,Santiago,Chile,False,1962,2
+Russia,Uruguay,2,1,FIFA World Cup,Arica,Chile,True,1962,3
+Bulgaria,England,0,0,FIFA World Cup,Rancagua,Chile,True,1962,0
+Colombia,Yugoslavia,0,5,FIFA World Cup,Arica,Chile,True,1962,5
+Czechoslovakia,Mexico,1,3,FIFA World Cup,Viña del Mar,Chile,True,1962,4
+Italy,Switzerland,3,0,FIFA World Cup,Santiago,Chile,True,1962,3
+Brazil,England,3,1,FIFA World Cup,Viña del Mar,Chile,True,1962,4
+Chile,Russia,2,1,FIFA World Cup,Arica,Chile,False,1962,3
+Czechoslovakia,Hungary,1,0,FIFA World Cup,Rancagua,Chile,True,1962,1
+Germany,Yugoslavia,0,1,FIFA World Cup,Santiago,Chile,True,1962,1
+Chile,Brazil,2,4,FIFA World Cup,Santiago,Chile,False,1962,6
+Czechoslovakia,Yugoslavia,3,1,FIFA World Cup,Viña del Mar,Chile,True,1962,4
+Chile,Yugoslavia,1,0,FIFA World Cup,Santiago,Chile,False,1962,1
+Brazil,Czechoslovakia,3,1,FIFA World Cup,Santiago,Chile,True,1962,4
+England,Uruguay,0,0,FIFA World Cup,London,England,False,1966,0
+Brazil,Bulgaria,2,0,FIFA World Cup,Liverpool,England,True,1966,2
+Germany,Switzerland,5,0,FIFA World Cup,Sheffield,England,True,1966,5
+North Korea,Russia,0,3,FIFA World Cup,Middlesbrough,England,True,1966,3
+Argentina,Spain,2,1,FIFA World Cup,Birmingham,England,True,1966,3
+Chile,Italy,0,2,FIFA World Cup,Sunderland,England,True,1966,2
+France,Mexico,1,1,FIFA World Cup,London,England,True,1966,2
+Hungary,Portugal,1,3,FIFA World Cup,Manchester,England,True,1966,4
+Brazil,Hungary,1,3,FIFA World Cup,Liverpool,England,True,1966,4
+Chile,North Korea,1,1,FIFA World Cup,Middlesbrough,England,True,1966,2
+France,Uruguay,1,2,FIFA World Cup,London,England,True,1966,3
+Spain,Switzerland,2,1,FIFA World Cup,Sheffield,England,True,1966,3
+Argentina,Germany,0,0,FIFA World Cup,Birmingham,England,True,1966,0
+Bulgaria,Portugal,0,3,FIFA World Cup,Manchester,England,True,1966,3
+England,Mexico,2,0,FIFA World Cup,London,England,False,1966,2
+Italy,Russia,0,1,FIFA World Cup,Sunderland,England,True,1966,1
+Argentina,Switzerland,2,0,FIFA World Cup,Sheffield,England,True,1966,2
+Brazil,Portugal,1,3,FIFA World Cup,Liverpool,England,True,1966,4
+Italy,North Korea,0,1,FIFA World Cup,Middlesbrough,England,True,1966,1
+Mexico,Uruguay,0,0,FIFA World Cup,London,England,True,1966,0
+Bulgaria,Hungary,1,3,FIFA World Cup,Manchester,England,True,1966,4
+Chile,Russia,1,2,FIFA World Cup,Sunderland,England,True,1966,3
+England,France,2,0,FIFA World Cup,London,England,False,1966,2
+Germany,Spain,2,1,FIFA World Cup,Birmingham,England,True,1966,3
+England,Argentina,1,0,FIFA World Cup,London,England,False,1966,1
+Germany,Uruguay,4,0,FIFA World Cup,Sheffield,England,True,1966,4
+Hungary,Russia,1,2,FIFA World Cup,Sunderland,England,True,1966,3
+North Korea,Portugal,3,5,FIFA World Cup,Liverpool,England,True,1966,8
+Germany,Russia,2,1,FIFA World Cup,Liverpool,England,True,1966,3
+England,Portugal,2,1,FIFA World Cup,London,England,False,1966,3
+Portugal,Russia,2,1,FIFA World Cup,London,England,True,1966,3
+England,Germany,4,2,FIFA World Cup,London,England,False,1966,6
+Mexico,Russia,0,0,FIFA World Cup,Mexico City,Mexico,False,1970,0
+Bulgaria,Peru,2,3,FIFA World Cup,León,Mexico,True,1970,5
+England,Romania,1,0,FIFA World Cup,Guadalajara,Mexico,True,1970,1
+Israel,Uruguay,0,2,FIFA World Cup,Puebla,Mexico,True,1970,2
+Belgium,El Salvador,3,0,FIFA World Cup,Mexico City,Mexico,True,1970,3
+Brazil,Czechoslovakia,4,1,FIFA World Cup,Guadalajara,Mexico,True,1970,5
+Germany,Morocco,2,1,FIFA World Cup,León,Mexico,True,1970,3
+Italy,Sweden,1,0,FIFA World Cup,Toluca,Mexico,True,1970,1
+Belgium,Russia,1,4,FIFA World Cup,Mexico City,Mexico,True,1970,5
+Czechoslovakia,Romania,1,2,FIFA World Cup,Guadalajara,Mexico,True,1970,3
+Italy,Uruguay,0,0,FIFA World Cup,Puebla,Mexico,True,1970,0
+Morocco,Peru,0,3,FIFA World Cup,León,Mexico,True,1970,3
+Brazil,England,1,0,FIFA World Cup,Guadalajara,Mexico,True,1970,1
+Bulgaria,Germany,2,5,FIFA World Cup,León,Mexico,True,1970,7
+Israel,Sweden,1,1,FIFA World Cup,Toluca,Mexico,True,1970,2
+Mexico,El Salvador,4,0,FIFA World Cup,Mexico City,Mexico,False,1970,4
+Brazil,Romania,3,2,FIFA World Cup,Guadalajara,Mexico,True,1970,5
+El Salvador,Russia,0,2,FIFA World Cup,Mexico City,Mexico,True,1970,2
+Germany,Peru,3,1,FIFA World Cup,León,Mexico,True,1970,4
+Sweden,Uruguay,1,0,FIFA World Cup,Puebla,Mexico,True,1970,1
+Bulgaria,Morocco,1,1,FIFA World Cup,León,Mexico,True,1970,2
+Czechoslovakia,England,0,1,FIFA World Cup,Guadalajara,Mexico,True,1970,1
+Israel,Italy,0,0,FIFA World Cup,Toluca,Mexico,True,1970,0
+Mexico,Belgium,1,0,FIFA World Cup,Mexico City,Mexico,False,1970,1
+Brazil,Peru,4,2,FIFA World Cup,Guadalajara,Mexico,True,1970,6
+England,Germany,2,3,FIFA World Cup,León,Mexico,True,1970,5
+Mexico,Italy,1,4,FIFA World Cup,Toluca,Mexico,False,1970,5
+Russia,Uruguay,0,1,FIFA World Cup,Mexico City,Mexico,True,1970,1
+Brazil,Uruguay,3,1,FIFA World Cup,Guadalajara,Mexico,True,1970,4
+Germany,Italy,3,4,FIFA World Cup,Mexico City,Mexico,True,1970,7
+Germany,Uruguay,1,0,FIFA World Cup,Mexico City,Mexico,True,1970,1
+Brazil,Italy,4,1,FIFA World Cup,Mexico City,Mexico,True,1970,5
+Brazil,Yugoslavia,0,0,FIFA World Cup,Frankfurt am Main,Germany,True,1974,0
+DR Congo,Scotland,0,2,FIFA World Cup,Dortmund,Germany,True,1974,2
+German DR,Australia,2,0,FIFA World Cup,Hamburg,Germany,True,1974,2
+Germany,Chile,1,0,FIFA World Cup,Berlin,Germany,False,1974,1
+Italy,Haiti,3,1,FIFA World Cup,Munich,Germany,True,1974,4
+Poland,Argentina,3,2,FIFA World Cup,Stuttgart,Germany,True,1974,5
+Sweden,Bulgaria,0,0,FIFA World Cup,Düsseldorf,Germany,True,1974,0
+Uruguay,Netherlands,0,2,FIFA World Cup,Hanover,Germany,True,1974,2
+Chile,German DR,1,1,FIFA World Cup,Berlin,Germany,True,1974,2
+Germany,Australia,3,0,FIFA World Cup,Hamburg,Germany,False,1974,3
+Scotland,Brazil,0,0,FIFA World Cup,Frankfurt am Main,Germany,True,1974,0
+Yugoslavia,DR Congo,9,0,FIFA World Cup,Gelsenkirchen,Germany,True,1974,9
+Argentina,Italy,1,1,FIFA World Cup,Stuttgart,Germany,True,1974,2
+Bulgaria,Uruguay,1,1,FIFA World Cup,Hanover,Germany,True,1974,2
+Haiti,Poland,0,7,FIFA World Cup,Munich,Germany,True,1974,7
+Netherlands,Sweden,0,0,FIFA World Cup,Dortmund,Germany,True,1974,0
+Australia,Chile,0,0,FIFA World Cup,Berlin,Germany,True,1974,0
+DR Congo,Brazil,0,3,FIFA World Cup,Gelsenkirchen,Germany,True,1974,3
+Germany,German DR,0,1,FIFA World Cup,Hamburg,Germany,False,1974,1
+Scotland,Yugoslavia,1,1,FIFA World Cup,Frankfurt am Main,Germany,True,1974,2
+Argentina,Haiti,4,1,FIFA World Cup,Munich,Germany,True,1974,5
+Bulgaria,Netherlands,1,4,FIFA World Cup,Dortmund,Germany,True,1974,5
+Poland,Italy,2,1,FIFA World Cup,Stuttgart,Germany,True,1974,3
+Sweden,Uruguay,3,0,FIFA World Cup,Düsseldorf,Germany,True,1974,3
+Brazil,German DR,1,0,FIFA World Cup,Hanover,Germany,True,1974,1
+Germany,Yugoslavia,2,0,FIFA World Cup,Düsseldorf,Germany,False,1974,2
+Netherlands,Argentina,4,0,FIFA World Cup,Gelsenkirchen,Germany,True,1974,4
+Sweden,Poland,0,1,FIFA World Cup,Stuttgart,Germany,True,1974,1
+Argentina,Brazil,1,2,FIFA World Cup,Hanover,Germany,True,1974,3
+German DR,Netherlands,0,2,FIFA World Cup,Gelsenkirchen,Germany,True,1974,2
+Germany,Sweden,4,2,FIFA World Cup,Düsseldorf,Germany,False,1974,6
+Poland,Yugoslavia,2,1,FIFA World Cup,Frankfurt am Main,Germany,True,1974,3
+Argentina,German DR,1,1,FIFA World Cup,Gelsenkirchen,Germany,True,1974,2
+Germany,Poland,1,0,FIFA World Cup,Frankfurt am Main,Germany,False,1974,1
+Netherlands,Brazil,2,0,FIFA World Cup,Dortmund,Germany,True,1974,2
+Sweden,Yugoslavia,2,1,FIFA World Cup,Düsseldorf,Germany,True,1974,3
+Brazil,Poland,0,1,FIFA World Cup,Munich,Germany,True,1974,1
+Germany,Netherlands,2,1,FIFA World Cup,Munich,Germany,False,1974,3
+Germany,Poland,0,0,FIFA World Cup,Buenos Aires,Argentina,True,1978,0
+Argentina,Hungary,2,1,FIFA World Cup,Buenos Aires,Argentina,False,1978,3
+France,Italy,1,2,FIFA World Cup,Mar del Plata,Argentina,True,1978,3
+Mexico,Tunisia,1,3,FIFA World Cup,Rosario,Argentina,True,1978,4
+Austria,Spain,2,1,FIFA World Cup,Buenos Aires,Argentina,True,1978,3
+Brazil,Sweden,1,1,FIFA World Cup,Mar del Plata,Argentina,True,1978,2
+Iran,Netherlands,0,3,FIFA World Cup,Mendoza,Argentina,True,1978,3
+Peru,Scotland,3,1,FIFA World Cup,Córdoba,Argentina,True,1978,4
+Argentina,France,2,1,FIFA World Cup,Buenos Aires,Argentina,False,1978,3
+Germany,Mexico,6,0,FIFA World Cup,Córdoba,Argentina,True,1978,6
+Hungary,Italy,1,3,FIFA World Cup,Mar del Plata,Argentina,True,1978,4
+Poland,Tunisia,1,0,FIFA World Cup,Rosario,Argentina,True,1978,1
+Austria,Sweden,1,0,FIFA World Cup,Buenos Aires,Argentina,True,1978,1
+Brazil,Spain,0,0,FIFA World Cup,Mar del Plata,Argentina,True,1978,0
+Iran,Scotland,1,1,FIFA World Cup,Córdoba,Argentina,True,1978,2
+Netherlands,Peru,0,0,FIFA World Cup,Mendoza,Argentina,True,1978,0
+Argentina,Italy,0,1,FIFA World Cup,Buenos Aires,Argentina,False,1978,1
+France,Hungary,3,1,FIFA World Cup,Mar del Plata,Argentina,True,1978,4
+Germany,Tunisia,0,0,FIFA World Cup,Córdoba,Argentina,True,1978,0
+Mexico,Poland,1,3,FIFA World Cup,Rosario,Argentina,True,1978,4
+Austria,Brazil,0,1,FIFA World Cup,Mar del Plata,Argentina,True,1978,1
+Iran,Peru,1,4,FIFA World Cup,Córdoba,Argentina,True,1978,5
+Netherlands,Scotland,2,3,FIFA World Cup,Mendoza,Argentina,True,1978,5
+Spain,Sweden,1,0,FIFA World Cup,Buenos Aires,Argentina,True,1978,1
+Argentina,Poland,2,0,FIFA World Cup,Rosario,Argentina,False,1978,2
+Austria,Netherlands,1,5,FIFA World Cup,Córdoba,Argentina,True,1978,6
+Brazil,Peru,3,0,FIFA World Cup,Mendoza,Argentina,True,1978,3
+Germany,Italy,0,0,FIFA World Cup,Buenos Aires,Argentina,True,1978,0
+Argentina,Brazil,0,0,FIFA World Cup,Rosario,Argentina,False,1978,0
+Austria,Italy,0,1,FIFA World Cup,Buenos Aires,Argentina,True,1978,1
+Germany,Netherlands,2,2,FIFA World Cup,Córdoba,Argentina,True,1978,4
+Peru,Poland,0,1,FIFA World Cup,Mendoza,Argentina,True,1978,1
+Argentina,Peru,6,0,FIFA World Cup,Rosario,Argentina,False,1978,6
+Austria,Germany,3,2,FIFA World Cup,Córdoba,Argentina,True,1978,5
+Brazil,Poland,3,1,FIFA World Cup,Mendoza,Argentina,True,1978,4
+Italy,Netherlands,1,2,FIFA World Cup,Buenos Aires,Argentina,True,1978,3
+Brazil,Italy,2,1,FIFA World Cup,Buenos Aires,Argentina,True,1978,3
+Argentina,Netherlands,3,1,FIFA World Cup,Buenos Aires,Argentina,False,1978,4
+Argentina,Belgium,0,1,FIFA World Cup,Barcelona,Spain,True,1982,1
+Brazil,Russia,2,1,FIFA World Cup,Seville,Spain,True,1982,3
+Italy,Poland,0,0,FIFA World Cup,Vigo,Spain,True,1982,0
+Hungary,El Salvador,10,1,FIFA World Cup,Elche,Spain,True,1982,11
+Peru,Cameroon,0,0,FIFA World Cup,La Coruña,Spain,True,1982,0
+Scotland,New Zealand,5,2,FIFA World Cup,Málaga,Spain,True,1982,7
+England,France,3,1,FIFA World Cup,Bilbao,Spain,True,1982,4
+Germany,Algeria,1,2,FIFA World Cup,Gijón,Spain,True,1982,3
+Spain,Honduras,1,1,FIFA World Cup,Valencia,Spain,False,1982,2
+Chile,Austria,0,1,FIFA World Cup,Oviedo,Spain,True,1982,1
+Czechoslovakia,Kuwait,1,1,FIFA World Cup,Valladolid,Spain,True,1982,2
+Yugoslavia,Northern Ireland,0,0,FIFA World Cup,Zaragoza,Spain,True,1982,0
+Argentina,Hungary,4,1,FIFA World Cup,Alicante,Spain,True,1982,5
+Brazil,Scotland,4,1,FIFA World Cup,Seville,Spain,True,1982,5
+Italy,Peru,1,1,FIFA World Cup,Vigo,Spain,True,1982,2
+Belgium,El Salvador,1,0,FIFA World Cup,Elche,Spain,True,1982,1
+Poland,Cameroon,0,0,FIFA World Cup,La Coruña,Spain,True,1982,0
+Russia,New Zealand,3,0,FIFA World Cup,Málaga,Spain,True,1982,3
+England,Czechoslovakia,2,0,FIFA World Cup,Bilbao,Spain,True,1982,2
+Germany,Chile,4,1,FIFA World Cup,Gijón,Spain,True,1982,5
+Spain,Yugoslavia,2,1,FIFA World Cup,Valencia,Spain,False,1982,3
+Algeria,Austria,0,2,FIFA World Cup,Oviedo,Spain,True,1982,2
+France,Kuwait,4,1,FIFA World Cup,Valladolid,Spain,True,1982,5
+Honduras,Northern Ireland,1,1,FIFA World Cup,Zaragoza,Spain,True,1982,2
+Belgium,Hungary,1,1,FIFA World Cup,Elche,Spain,True,1982,2
+Poland,Peru,5,1,FIFA World Cup,La Coruña,Spain,True,1982,6
+Russia,Scotland,2,2,FIFA World Cup,Málaga,Spain,True,1982,4
+Argentina,El Salvador,2,0,FIFA World Cup,Alicante,Spain,True,1982,2
+Brazil,New Zealand,4,0,FIFA World Cup,Seville,Spain,True,1982,4
+Italy,Cameroon,1,1,FIFA World Cup,Vigo,Spain,True,1982,2
+Algeria,Chile,3,2,FIFA World Cup,Oviedo,Spain,True,1982,5
+France,Czechoslovakia,1,1,FIFA World Cup,Valladolid,Spain,True,1982,2
+Honduras,Yugoslavia,0,1,FIFA World Cup,Zaragoza,Spain,True,1982,1
+England,Kuwait,1,0,FIFA World Cup,Bilbao,Spain,True,1982,1
+Germany,Austria,1,0,FIFA World Cup,Gijón,Spain,True,1982,1
+Spain,Northern Ireland,0,1,FIFA World Cup,Valencia,Spain,False,1982,1
+Austria,France,0,1,FIFA World Cup,Madrid,Spain,True,1982,1
+Poland,Belgium,3,0,FIFA World Cup,Barcelona,Spain,True,1982,3
+Germany,England,0,0,FIFA World Cup,Madrid,Spain,True,1982,0
+Italy,Argentina,2,1,FIFA World Cup,Barcelona,Spain,True,1982,3
+Austria,Northern Ireland,2,2,FIFA World Cup,Madrid,Spain,True,1982,4
+Belgium,Russia,0,1,FIFA World Cup,Barcelona,Spain,True,1982,1
+Argentina,Brazil,1,3,FIFA World Cup,Barcelona,Spain,True,1982,4
+Spain,Germany,1,2,FIFA World Cup,Madrid,Spain,False,1982,3
+France,Northern Ireland,4,1,FIFA World Cup,Madrid,Spain,True,1982,5
+Poland,Russia,0,0,FIFA World Cup,Barcelona,Spain,True,1982,0
+Italy,Brazil,3,2,FIFA World Cup,Barcelona,Spain,True,1982,5
+Spain,England,0,0,FIFA World Cup,Madrid,Spain,False,1982,0
+Germany,France,3,3,FIFA World Cup,Seville,Spain,True,1982,6
+Poland,Italy,0,2,FIFA World Cup,Barcelona,Spain,True,1982,2
+Poland,France,3,2,FIFA World Cup,Alicante,Spain,True,1982,5
+Italy,Germany,3,1,FIFA World Cup,Madrid,Spain,True,1982,4
+Bulgaria,Italy,1,1,FIFA World Cup,Mexico City,Mexico,True,1986,2
+Canada,France,0,1,FIFA World Cup,León,Mexico,True,1986,1
+Spain,Brazil,0,1,FIFA World Cup,Guadalajara,Mexico,True,1986,1
+Argentina,South Korea,3,1,FIFA World Cup,Mexico City,Mexico,True,1986,4
+Morocco,Poland,0,0,FIFA World Cup,Monterrey,Mexico,True,1986,0
+Russia,Hungary,6,0,FIFA World Cup,Irapuato,Mexico,True,1986,6
+Algeria,Northern Ireland,1,1,FIFA World Cup,Guadalajara,Mexico,True,1986,2
+Mexico,Belgium,2,1,FIFA World Cup,Mexico City,Mexico,False,1986,3
+Portugal,England,1,0,FIFA World Cup,Monterrey,Mexico,True,1986,1
+Paraguay,Iraq,1,0,FIFA World Cup,Toluca,Mexico,True,1986,1
+Scotland,Denmark,0,1,FIFA World Cup,Nezahualcóyotl,Mexico,True,1986,1
+Uruguay,Germany,1,1,FIFA World Cup,Querétaro,Mexico,True,1986,2
+France,Russia,1,1,FIFA World Cup,León,Mexico,True,1986,2
+Italy,Argentina,1,1,FIFA World Cup,Puebla,Mexico,True,1986,2
+South Korea,Bulgaria,1,1,FIFA World Cup,Mexico City,Mexico,True,1986,2
+Brazil,Algeria,1,0,FIFA World Cup,Guadalajara,Mexico,True,1986,1
+England,Morocco,0,0,FIFA World Cup,Monterrey,Mexico,True,1986,0
+Hungary,Canada,2,0,FIFA World Cup,Irapuato,Mexico,True,1986,2
+Mexico,Paraguay,1,1,FIFA World Cup,Mexico City,Mexico,False,1986,2
+Northern Ireland,Spain,1,2,FIFA World Cup,Guadalajara,Mexico,True,1986,3
+Poland,Portugal,1,0,FIFA World Cup,Monterrey,Mexico,True,1986,1
+Denmark,Uruguay,6,1,FIFA World Cup,Nezahualcóyotl,Mexico,True,1986,7
+Germany,Scotland,2,1,FIFA World Cup,Querétaro,Mexico,True,1986,3
+Iraq,Belgium,1,2,FIFA World Cup,Toluca,Mexico,True,1986,3
+Hungary,France,0,3,FIFA World Cup,León,Mexico,True,1986,3
+Russia,Canada,2,0,FIFA World Cup,Irapuato,Mexico,True,1986,2
+Argentina,Bulgaria,2,0,FIFA World Cup,Mexico City,Mexico,True,1986,2
+South Korea,Italy,2,3,FIFA World Cup,Puebla,Mexico,True,1986,5
+England,Poland,3,0,FIFA World Cup,Monterrey,Mexico,True,1986,3
+Mexico,Iraq,1,0,FIFA World Cup,Mexico City,Mexico,False,1986,1
+Paraguay,Belgium,2,2,FIFA World Cup,Toluca,Mexico,True,1986,4
+Portugal,Morocco,1,3,FIFA World Cup,Guadalajara,Mexico,True,1986,4
+Algeria,Spain,0,3,FIFA World Cup,Monterrey,Mexico,True,1986,3
+Northern Ireland,Brazil,0,3,FIFA World Cup,Guadalajara,Mexico,True,1986,3
+Denmark,Germany,2,0,FIFA World Cup,Querétaro,Mexico,True,1986,2
+Scotland,Uruguay,0,0,FIFA World Cup,Nezahualcóyotl,Mexico,True,1986,0
+Mexico,Bulgaria,2,0,FIFA World Cup,Mexico City,Mexico,False,1986,2
+Russia,Belgium,3,4,FIFA World Cup,León,Mexico,True,1986,7
+Argentina,Uruguay,1,0,FIFA World Cup,Puebla,Mexico,True,1986,1
+Brazil,Poland,4,0,FIFA World Cup,Guadalajara,Mexico,True,1986,4
+Italy,France,0,2,FIFA World Cup,Mexico City,Mexico,True,1986,2
+Morocco,Germany,0,1,FIFA World Cup,Monterrey,Mexico,True,1986,1
+Denmark,Spain,1,5,FIFA World Cup,Querétaro,Mexico,True,1986,6
+England,Paraguay,3,0,FIFA World Cup,Mexico City,Mexico,True,1986,3
+Brazil,France,1,1,FIFA World Cup,Guadalajara,Mexico,True,1986,2
+Mexico,Germany,0,0,FIFA World Cup,Monterrey,Mexico,False,1986,0
+Argentina,England,2,1,FIFA World Cup,Mexico City,Mexico,True,1986,3
+Spain,Belgium,1,1,FIFA World Cup,Puebla,Mexico,True,1986,2
+Argentina,Belgium,2,0,FIFA World Cup,Mexico City,Mexico,True,1986,2
+France,Germany,0,2,FIFA World Cup,Guadalajara,Mexico,True,1986,2
+France,Belgium,4,2,FIFA World Cup,Puebla,Mexico,True,1986,6
+Argentina,Germany,3,2,FIFA World Cup,Mexico City,Mexico,True,1986,5
+Argentina,Cameroon,0,1,FIFA World Cup,Milan,Italy,True,1990,1
+Italy,Austria,1,0,FIFA World Cup,Rome,Italy,False,1990,1
+Russia,Romania,0,2,FIFA World Cup,Bari,Italy,True,1990,2
+United Arab Emirates,Colombia,0,2,FIFA World Cup,Bologna,Italy,True,1990,2
+Brazil,Sweden,2,1,FIFA World Cup,Turin,Italy,True,1990,3
+Germany,Yugoslavia,4,1,FIFA World Cup,Milan,Italy,True,1990,5
+United States,Czechoslovakia,1,5,FIFA World Cup,Florence,Italy,True,1990,6
+Costa Rica,Scotland,1,0,FIFA World Cup,Genoa,Italy,True,1990,1
+England,Republic of Ireland,1,1,FIFA World Cup,Cagliari,Italy,True,1990,2
+Belgium,South Korea,2,0,FIFA World Cup,Verona,Italy,True,1990,2
+Netherlands,Egypt,1,1,FIFA World Cup,Palermo,Italy,True,1990,2
+Argentina,Russia,2,0,FIFA World Cup,Naples,Italy,True,1990,2
+Uruguay,Spain,0,0,FIFA World Cup,Udine,Italy,True,1990,0
+Cameroon,Romania,2,1,FIFA World Cup,Bari,Italy,True,1990,3
+Italy,United States,1,0,FIFA World Cup,Rome,Italy,False,1990,1
+Yugoslavia,Colombia,1,0,FIFA World Cup,Bologna,Italy,True,1990,1
+Austria,Czechoslovakia,0,1,FIFA World Cup,Florence,Italy,True,1990,1
+Germany,United Arab Emirates,5,1,FIFA World Cup,Milan,Italy,True,1990,6
+Brazil,Costa Rica,1,0,FIFA World Cup,Turin,Italy,True,1990,1
+England,Netherlands,0,0,FIFA World Cup,Cagliari,Italy,True,1990,0
+Sweden,Scotland,1,2,FIFA World Cup,Genoa,Italy,True,1990,3
+Belgium,Uruguay,3,1,FIFA World Cup,Verona,Italy,True,1990,4
+Republic of Ireland,Egypt,0,0,FIFA World Cup,Palermo,Italy,True,1990,0
+South Korea,Spain,1,3,FIFA World Cup,Udine,Italy,True,1990,4
+Argentina,Romania,1,1,FIFA World Cup,Naples,Italy,True,1990,2
+Cameroon,Russia,0,4,FIFA World Cup,Bari,Italy,True,1990,4
+Austria,United States,2,1,FIFA World Cup,Florence,Italy,True,1990,3
+Germany,Colombia,1,1,FIFA World Cup,Milan,Italy,True,1990,2
+Italy,Czechoslovakia,2,0,FIFA World Cup,Rome,Italy,False,1990,2
+Yugoslavia,United Arab Emirates,4,1,FIFA World Cup,Bologna,Italy,True,1990,5
+Brazil,Scotland,1,0,FIFA World Cup,Turin,Italy,True,1990,1
+Sweden,Costa Rica,1,2,FIFA World Cup,Genoa,Italy,True,1990,3
+Belgium,Spain,1,2,FIFA World Cup,Verona,Italy,True,1990,3
+England,Egypt,1,0,FIFA World Cup,Cagliari,Italy,True,1990,1
+Republic of Ireland,Netherlands,1,1,FIFA World Cup,Palermo,Italy,True,1990,2
+South Korea,Uruguay,0,1,FIFA World Cup,Udine,Italy,True,1990,1
+Cameroon,Colombia,2,1,FIFA World Cup,Naples,Italy,True,1990,3
+Czechoslovakia,Costa Rica,4,1,FIFA World Cup,Bari,Italy,True,1990,5
+Brazil,Argentina,0,1,FIFA World Cup,Turin,Italy,True,1990,1
+Germany,Netherlands,2,1,FIFA World Cup,Milan,Italy,True,1990,3
+Republic of Ireland,Romania,0,0,FIFA World Cup,Genoa,Italy,True,1990,0
+Italy,Uruguay,2,0,FIFA World Cup,Rome,Italy,False,1990,2
+England,Belgium,1,0,FIFA World Cup,Bologna,Italy,True,1990,1
+Spain,Yugoslavia,1,2,FIFA World Cup,Verona,Italy,True,1990,3
+Italy,Republic of Ireland,1,0,FIFA World Cup,Rome,Italy,False,1990,1
+Yugoslavia,Argentina,0,0,FIFA World Cup,Florence,Italy,True,1990,0
+Cameroon,England,2,3,FIFA World Cup,Naples,Italy,True,1990,5
+Germany,Czechoslovakia,1,0,FIFA World Cup,Milan,Italy,True,1990,1
+Italy,Argentina,1,1,FIFA World Cup,Naples,Italy,False,1990,2
+Germany,England,1,1,FIFA World Cup,Turin,Italy,True,1990,2
+Italy,England,2,1,FIFA World Cup,Bari,Italy,False,1990,3
+Germany,Argentina,1,0,FIFA World Cup,Rome,Italy,True,1990,1
+Germany,Bolivia,1,0,FIFA World Cup,Chicago,United States,True,1994,1
+Spain,South Korea,2,2,FIFA World Cup,Dallas,United States,True,1994,4
+Colombia,Romania,1,3,FIFA World Cup,Pasadena,United States,True,1994,4
+Italy,Republic of Ireland,0,1,FIFA World Cup,East Rutherford,United States,True,1994,1
+United States,Switzerland,1,1,FIFA World Cup,Pontiac,United States,False,1994,2
+Belgium,Morocco,1,0,FIFA World Cup,Orlando,United States,True,1994,1
+Cameroon,Sweden,2,2,FIFA World Cup,Pasadena,United States,True,1994,4
+Norway,Mexico,1,0,FIFA World Cup,Washington,United States,True,1994,1
+Brazil,Russia,2,0,FIFA World Cup,Palo Alto,United States,True,1994,2
+Netherlands,Saudi Arabia,2,1,FIFA World Cup,Washington,United States,True,1994,3
+Argentina,Greece,4,0,FIFA World Cup,Foxborough,United States,True,1994,4
+Germany,Spain,1,1,FIFA World Cup,Chicago,United States,True,1994,2
+Nigeria,Bulgaria,3,0,FIFA World Cup,Dallas,United States,True,1994,3
+Romania,Switzerland,1,4,FIFA World Cup,Pontiac,United States,True,1994,5
+United States,Colombia,2,1,FIFA World Cup,Pasadena,United States,False,1994,3
+Italy,Norway,1,0,FIFA World Cup,East Rutherford,United States,True,1994,1
+South Korea,Bolivia,0,0,FIFA World Cup,Foxborough,United States,True,1994,0
+Brazil,Cameroon,3,0,FIFA World Cup,Palo Alto,United States,True,1994,3
+Mexico,Republic of Ireland,2,1,FIFA World Cup,Orlando,United States,True,1994,3
+Sweden,Russia,3,1,FIFA World Cup,Pontiac,United States,True,1994,4
+Argentina,Nigeria,2,1,FIFA World Cup,Foxborough,United States,True,1994,3
+Belgium,Netherlands,1,0,FIFA World Cup,Orlando,United States,True,1994,1
+Saudi Arabia,Morocco,2,1,FIFA World Cup,East Rutherford,United States,True,1994,3
+Bulgaria,Greece,4,0,FIFA World Cup,Chicago,United States,True,1994,4
+Switzerland,Colombia,0,2,FIFA World Cup,Palo Alto,United States,True,1994,2
+United States,Romania,0,1,FIFA World Cup,Pasadena,United States,False,1994,1
+Bolivia,Spain,1,3,FIFA World Cup,Chicago,United States,True,1994,4
+Germany,South Korea,3,2,FIFA World Cup,Dallas,United States,True,1994,5
+Brazil,Sweden,1,1,FIFA World Cup,Pontiac,United States,True,1994,2
+Republic of Ireland,Norway,0,0,FIFA World Cup,East Rutherford,United States,True,1994,0
+Italy,Mexico,1,1,FIFA World Cup,Washington,United States,True,1994,2
+Russia,Cameroon,6,1,FIFA World Cup,Palo Alto,United States,True,1994,7
+Belgium,Saudi Arabia,0,1,FIFA World Cup,Washington,United States,True,1994,1
+Morocco,Netherlands,1,2,FIFA World Cup,Orlando,United States,True,1994,3
+Argentina,Bulgaria,0,2,FIFA World Cup,Dallas,United States,True,1994,2
+Greece,Nigeria,0,2,FIFA World Cup,Foxborough,United States,True,1994,2
+Germany,Belgium,3,2,FIFA World Cup,Chicago,United States,True,1994,5
+Spain,Switzerland,3,0,FIFA World Cup,Washington,United States,True,1994,3
+Romania,Argentina,3,2,FIFA World Cup,Pasadena,United States,True,1994,5
+Saudi Arabia,Sweden,1,3,FIFA World Cup,Dallas,United States,True,1994,4
+Netherlands,Republic of Ireland,2,0,FIFA World Cup,Orlando,United States,True,1994,2
+United States,Brazil,0,1,FIFA World Cup,Palo Alto,United States,False,1994,1
+Mexico,Bulgaria,1,1,FIFA World Cup,East Rutherford,United States,True,1994,2
+Nigeria,Italy,1,2,FIFA World Cup,Foxborough,United States,True,1994,3
+Italy,Spain,2,1,FIFA World Cup,Foxborough,United States,True,1994,3
+Netherlands,Brazil,2,3,FIFA World Cup,Dallas,United States,True,1994,5
+Bulgaria,Germany,2,1,FIFA World Cup,East Rutherford,United States,True,1994,3
+Romania,Sweden,2,2,FIFA World Cup,Palo Alto,United States,True,1994,4
+Bulgaria,Italy,1,2,FIFA World Cup,East Rutherford,United States,True,1994,3
+Sweden,Brazil,0,1,FIFA World Cup,Pasadena,United States,True,1994,1
+Sweden,Bulgaria,4,0,FIFA World Cup,Pasadena,United States,True,1994,4
+Brazil,Italy,0,0,FIFA World Cup,Pasadena,United States,True,1994,0
+Brazil,Scotland,2,1,FIFA World Cup,Saint-Denis,France,True,1998,3
+Morocco,Norway,2,2,FIFA World Cup,Montpellier,France,True,1998,4
+Cameroon,Austria,1,1,FIFA World Cup,Toulouse,France,True,1998,2
+Italy,Chile,2,2,FIFA World Cup,Bordeaux,France,True,1998,4
+France,South Africa,3,0,FIFA World Cup,Marseille,France,False,1998,3
+Paraguay,Bulgaria,0,0,FIFA World Cup,Montpellier,France,True,1998,0
+Saudi Arabia,Denmark,0,1,FIFA World Cup,Lens,France,True,1998,1
+South Korea,Mexico,1,3,FIFA World Cup,Lyon,France,True,1998,4
+Netherlands,Belgium,0,0,FIFA World Cup,Saint-Denis,France,True,1998,0
+Spain,Nigeria,2,3,FIFA World Cup,Nantes,France,True,1998,5
+Argentina,Japan,1,0,FIFA World Cup,Toulouse,France,True,1998,1
+Jamaica,Croatia,1,3,FIFA World Cup,Lens,France,True,1998,4
+Serbia,Iran,1,0,FIFA World Cup,Saint-Étienne,France,True,1998,1
+England,Tunisia,2,0,FIFA World Cup,Marseille,France,True,1998,2
+Germany,United States,2,0,FIFA World Cup,Paris,France,True,1998,2
+Romania,Colombia,1,0,FIFA World Cup,Lyon,France,True,1998,1
+Brazil,Morocco,3,0,FIFA World Cup,Nantes,France,True,1998,3
+Scotland,Norway,1,1,FIFA World Cup,Bordeaux,France,True,1998,2
+Chile,Austria,1,1,FIFA World Cup,Saint-Étienne,France,True,1998,2
+Italy,Cameroon,3,0,FIFA World Cup,Montpellier,France,True,1998,3
+France,Saudi Arabia,4,0,FIFA World Cup,Saint-Denis,France,False,1998,4
+South Africa,Denmark,1,1,FIFA World Cup,Toulouse,France,True,1998,2
+Nigeria,Bulgaria,1,0,FIFA World Cup,Paris,France,True,1998,1
+Spain,Paraguay,0,0,FIFA World Cup,Saint-Étienne,France,True,1998,0
+Belgium,Mexico,2,2,FIFA World Cup,Bordeaux,France,True,1998,4
+Japan,Croatia,0,1,FIFA World Cup,Nantes,France,True,1998,1
+Netherlands,South Korea,5,0,FIFA World Cup,Marseille,France,True,1998,5
+Argentina,Jamaica,5,0,FIFA World Cup,Paris,France,True,1998,5
+Germany,Serbia,2,2,FIFA World Cup,Lens,France,True,1998,4
+United States,Iran,1,2,FIFA World Cup,Lyon,France,True,1998,3
+Colombia,Tunisia,1,0,FIFA World Cup,Montpellier,France,True,1998,1
+Romania,England,2,1,FIFA World Cup,Toulouse,France,True,1998,3
+Brazil,Norway,1,2,FIFA World Cup,Marseille,France,True,1998,3
+Chile,Cameroon,1,1,FIFA World Cup,Nantes,France,True,1998,2
+Italy,Austria,2,1,FIFA World Cup,Saint-Denis,France,True,1998,3
+Scotland,Morocco,0,3,FIFA World Cup,Saint-Étienne,France,True,1998,3
+France,Denmark,2,1,FIFA World Cup,Lyon,France,False,1998,3
+Nigeria,Paraguay,1,3,FIFA World Cup,Toulouse,France,True,1998,4
+South Africa,Saudi Arabia,2,2,FIFA World Cup,Bordeaux,France,True,1998,4
+Spain,Bulgaria,6,1,FIFA World Cup,Lens,France,True,1998,7
+Belgium,South Korea,1,1,FIFA World Cup,Paris,France,True,1998,2
+Germany,Iran,2,0,FIFA World Cup,Montpellier,France,True,1998,2
+Netherlands,Mexico,2,2,FIFA World Cup,Saint-Étienne,France,True,1998,4
+United States,Serbia,0,1,FIFA World Cup,Nantes,France,True,1998,1
+Argentina,Croatia,1,0,FIFA World Cup,Bordeaux,France,True,1998,1
+Colombia,England,0,2,FIFA World Cup,Lens,France,True,1998,2
+Japan,Jamaica,1,2,FIFA World Cup,Lyon,France,True,1998,3
+Romania,Tunisia,1,1,FIFA World Cup,Saint-Denis,France,True,1998,2
+Brazil,Chile,4,1,FIFA World Cup,Paris,France,True,1998,5
+Italy,Norway,1,0,FIFA World Cup,Marseille,France,True,1998,1
+France,Paraguay,1,0,FIFA World Cup,Lens,France,False,1998,1
+Nigeria,Denmark,1,4,FIFA World Cup,Saint-Denis,France,True,1998,5
+Germany,Mexico,2,1,FIFA World Cup,Montpellier,France,True,1998,3
+Netherlands,Serbia,2,1,FIFA World Cup,Toulouse,France,True,1998,3
+Argentina,England,2,2,FIFA World Cup,Saint-Étienne,France,True,1998,4
+Romania,Croatia,0,1,FIFA World Cup,Bordeaux,France,True,1998,1
+Brazil,Denmark,3,2,FIFA World Cup,Nantes,France,True,1998,5
+France,Italy,0,0,FIFA World Cup,Saint-Denis,France,False,1998,0
+Germany,Croatia,0,3,FIFA World Cup,Lyon,France,True,1998,3
+Netherlands,Argentina,2,1,FIFA World Cup,Marseille,France,True,1998,3
+Brazil,Netherlands,1,1,FIFA World Cup,Marseille,France,True,1998,2
+France,Croatia,2,1,FIFA World Cup,Saint-Denis,France,False,1998,3
+Netherlands,Croatia,1,2,FIFA World Cup,Paris,France,True,1998,3
+France,Brazil,3,0,FIFA World Cup,Saint-Denis,France,False,1998,3
+France,Senegal,0,1,FIFA World Cup,Seoul,South Korea,True,2002,1
+Germany,Saudi Arabia,8,0,FIFA World Cup,Sapporo,Japan,True,2002,8
+Republic of Ireland,Cameroon,1,1,FIFA World Cup,Niigata,Japan,True,2002,2
+Uruguay,Denmark,1,2,FIFA World Cup,Ulsan,South Korea,True,2002,3
+Argentina,Nigeria,1,0,FIFA World Cup,Kashima,Japan,True,2002,1
+England,Sweden,1,1,FIFA World Cup,Saitama,Japan,True,2002,2
+Paraguay,South Africa,2,2,FIFA World Cup,Busan,South Korea,True,2002,4
+Spain,Slovenia,3,1,FIFA World Cup,Gwangju,South Korea,True,2002,4
+Brazil,Turkey,2,1,FIFA World Cup,Ulsan,South Korea,True,2002,3
+Croatia,Mexico,0,1,FIFA World Cup,Niigata,Japan,True,2002,1
+Italy,Ecuador,2,0,FIFA World Cup,Sapporo,Japan,True,2002,2
+China PR,Costa Rica,0,2,FIFA World Cup,Gwangju,South Korea,True,2002,2
+Japan,Belgium,2,2,FIFA World Cup,Saitama,Japan,False,2002,4
+South Korea,Poland,2,0,FIFA World Cup,Busan,South Korea,False,2002,2
+Germany,Republic of Ireland,1,1,FIFA World Cup,Kashima,Japan,True,2002,2
+Russia,Tunisia,2,0,FIFA World Cup,Kobe,Japan,True,2002,2
+United States,Portugal,3,2,FIFA World Cup,Suwon,South Korea,True,2002,5
+Cameroon,Saudi Arabia,1,0,FIFA World Cup,Saitama,Japan,True,2002,1
+Denmark,Senegal,1,1,FIFA World Cup,Daegu,South Korea,True,2002,2
+France,Uruguay,0,0,FIFA World Cup,Busan,South Korea,True,2002,0
+Argentina,England,0,1,FIFA World Cup,Sapporo,Japan,True,2002,1
+Spain,Paraguay,3,1,FIFA World Cup,Jeonju,South Korea,True,2002,4
+Sweden,Nigeria,2,1,FIFA World Cup,Kobe,Japan,True,2002,3
+Brazil,China PR,4,0,FIFA World Cup,Seogwipo,South Korea,True,2002,4
+Italy,Croatia,1,2,FIFA World Cup,Kashima,Japan,True,2002,3
+South Africa,Slovenia,1,0,FIFA World Cup,Daegu,South Korea,True,2002,1
+Costa Rica,Turkey,1,1,FIFA World Cup,Incheon,South Korea,True,2002,2
+Japan,Russia,1,0,FIFA World Cup,Yokohama,Japan,False,2002,1
+Mexico,Ecuador,2,1,FIFA World Cup,Rifu,Japan,True,2002,3
+South Korea,United States,1,1,FIFA World Cup,Daegu,South Korea,False,2002,2
+Portugal,Poland,4,0,FIFA World Cup,Jeonju,South Korea,True,2002,4
+Tunisia,Belgium,1,1,FIFA World Cup,Ōita,Japan,True,2002,2
+Cameroon,Germany,0,2,FIFA World Cup,Fukuroi,Japan,True,2002,2
+Denmark,France,2,0,FIFA World Cup,Incheon,South Korea,True,2002,2
+Saudi Arabia,Republic of Ireland,0,3,FIFA World Cup,Yokohama,Japan,True,2002,3
+Senegal,Uruguay,3,3,FIFA World Cup,Suwon,South Korea,True,2002,6
+Nigeria,England,0,0,FIFA World Cup,Osaka,Japan,True,2002,0
+Slovenia,Paraguay,1,3,FIFA World Cup,Seogwipo,South Korea,True,2002,4
+South Africa,Spain,2,3,FIFA World Cup,Daejeon,South Korea,True,2002,5
+Sweden,Argentina,1,1,FIFA World Cup,Rifu,Japan,True,2002,2
+Costa Rica,Brazil,2,5,FIFA World Cup,Suwon,South Korea,True,2002,7
+Ecuador,Croatia,1,0,FIFA World Cup,Yokohama,Japan,True,2002,1
+Mexico,Italy,1,1,FIFA World Cup,Ōita,Japan,True,2002,2
+Turkey,China PR,3,0,FIFA World Cup,Seoul,South Korea,True,2002,3
+Belgium,Russia,3,2,FIFA World Cup,Fukuroi,Japan,True,2002,5
+Japan,Tunisia,2,0,FIFA World Cup,Osaka,Japan,False,2002,2
+South Korea,Portugal,1,0,FIFA World Cup,Incheon,South Korea,False,2002,1
+Poland,United States,3,1,FIFA World Cup,Daejeon,South Korea,True,2002,4
+Denmark,England,0,3,FIFA World Cup,Niigata,Japan,True,2002,3
+Germany,Paraguay,1,0,FIFA World Cup,Seogwipo,South Korea,True,2002,1
+Spain,Republic of Ireland,1,1,FIFA World Cup,Suwon,South Korea,True,2002,2
+Sweden,Senegal,1,2,FIFA World Cup,Ōita,Japan,True,2002,3
+Brazil,Belgium,2,0,FIFA World Cup,Kobe,Japan,True,2002,2
+Mexico,United States,0,2,FIFA World Cup,Jeonju,South Korea,True,2002,2
+Japan,Turkey,0,1,FIFA World Cup,Rifu,Japan,False,2002,1
+South Korea,Italy,2,1,FIFA World Cup,Daejeon,South Korea,False,2002,3
+England,Brazil,1,2,FIFA World Cup,Fukuroi,Japan,True,2002,3
+Germany,United States,1,0,FIFA World Cup,Ulsan,South Korea,True,2002,1
+South Korea,Spain,0,0,FIFA World Cup,Gwangju,South Korea,False,2002,0
+Senegal,Turkey,0,1,FIFA World Cup,Osaka,Japan,True,2002,1
+South Korea,Germany,0,1,FIFA World Cup,Seoul,South Korea,False,2002,1
+Brazil,Turkey,1,0,FIFA World Cup,Saitama,Japan,True,2002,1
+South Korea,Turkey,2,3,FIFA World Cup,Daegu,South Korea,False,2002,5
+Germany,Brazil,0,2,FIFA World Cup,Yokohama,Japan,True,2002,2
+Germany,Costa Rica,4,2,FIFA World Cup,Munich,Germany,False,2006,6
+Poland,Ecuador,0,2,FIFA World Cup,Gelsenkirchen,Germany,True,2006,2
+Argentina,Ivory Coast,2,1,FIFA World Cup,Hamburg,Germany,True,2006,3
+England,Paraguay,1,0,FIFA World Cup,Frankfurt am Main,Germany,True,2006,1
+Trinidad and Tobago,Sweden,0,0,FIFA World Cup,Dortmund,Germany,True,2006,0
+Angola,Portugal,0,1,FIFA World Cup,Cologne,Germany,True,2006,1
+Mexico,Iran,3,1,FIFA World Cup,Nuremberg,Germany,True,2006,4
+Serbia,Netherlands,0,1,FIFA World Cup,Leipzig,Germany,True,2006,1
+Australia,Japan,3,1,FIFA World Cup,Kaiserslautern,Germany,True,2006,4
+Italy,Ghana,2,0,FIFA World Cup,Hanover,Germany,True,2006,2
+United States,Czech Republic,0,3,FIFA World Cup,Gelsenkirchen,Germany,True,2006,3
+Brazil,Croatia,1,0,FIFA World Cup,Berlin,Germany,True,2006,1
+France,Switzerland,0,0,FIFA World Cup,Stuttgart,Germany,True,2006,0
+South Korea,Togo,2,1,FIFA World Cup,Frankfurt am Main,Germany,True,2006,3
+Germany,Poland,1,0,FIFA World Cup,Dortmund,Germany,False,2006,1
+Spain,Ukraine,4,0,FIFA World Cup,Leipzig,Germany,True,2006,4
+Tunisia,Saudi Arabia,2,2,FIFA World Cup,Munich,Germany,True,2006,4
+Ecuador,Costa Rica,3,0,FIFA World Cup,Hamburg,Germany,True,2006,3
+England,Trinidad and Tobago,2,0,FIFA World Cup,Nuremberg,Germany,True,2006,2
+Sweden,Paraguay,1,0,FIFA World Cup,Berlin,Germany,True,2006,1
+Argentina,Serbia,6,0,FIFA World Cup,Gelsenkirchen,Germany,True,2006,6
+Mexico,Angola,0,0,FIFA World Cup,Hanover,Germany,True,2006,0
+Netherlands,Ivory Coast,2,1,FIFA World Cup,Stuttgart,Germany,True,2006,3
+Czech Republic,Ghana,0,2,FIFA World Cup,Cologne,Germany,True,2006,2
+Italy,United States,1,1,FIFA World Cup,Kaiserslautern,Germany,True,2006,2
+Portugal,Iran,2,0,FIFA World Cup,Frankfurt am Main,Germany,True,2006,2
+Brazil,Australia,2,0,FIFA World Cup,Munich,Germany,True,2006,2
+France,South Korea,1,1,FIFA World Cup,Leipzig,Germany,True,2006,2
+Japan,Croatia,0,0,FIFA World Cup,Nuremberg,Germany,True,2006,0
+Saudi Arabia,Ukraine,0,4,FIFA World Cup,Hamburg,Germany,True,2006,4
+Spain,Tunisia,3,1,FIFA World Cup,Stuttgart,Germany,True,2006,4
+Togo,Switzerland,0,2,FIFA World Cup,Dortmund,Germany,True,2006,2
+Costa Rica,Poland,1,2,FIFA World Cup,Hanover,Germany,True,2006,3
+Germany,Ecuador,3,0,FIFA World Cup,Berlin,Germany,False,2006,3
+Paraguay,Trinidad and Tobago,2,0,FIFA World Cup,Kaiserslautern,Germany,True,2006,2
+Sweden,England,2,2,FIFA World Cup,Cologne,Germany,True,2006,4
+Iran,Angola,1,1,FIFA World Cup,Leipzig,Germany,True,2006,2
+Ivory Coast,Serbia,3,2,FIFA World Cup,Munich,Germany,True,2006,5
+Netherlands,Argentina,0,0,FIFA World Cup,Frankfurt am Main,Germany,True,2006,0
+Portugal,Mexico,2,1,FIFA World Cup,Gelsenkirchen,Germany,True,2006,3
+Croatia,Australia,2,2,FIFA World Cup,Stuttgart,Germany,True,2006,4
+Czech Republic,Italy,0,2,FIFA World Cup,Hamburg,Germany,True,2006,2
+Ghana,United States,2,1,FIFA World Cup,Nuremberg,Germany,True,2006,3
+Japan,Brazil,1,4,FIFA World Cup,Dortmund,Germany,True,2006,5
+Saudi Arabia,Spain,0,1,FIFA World Cup,Kaiserslautern,Germany,True,2006,1
+Switzerland,South Korea,2,0,FIFA World Cup,Hanover,Germany,True,2006,2
+Togo,France,0,2,FIFA World Cup,Cologne,Germany,True,2006,2
+Ukraine,Tunisia,1,0,FIFA World Cup,Berlin,Germany,True,2006,1
+Argentina,Mexico,2,1,FIFA World Cup,Leipzig,Germany,True,2006,3
+Germany,Sweden,2,0,FIFA World Cup,Munich,Germany,False,2006,2
+England,Ecuador,1,0,FIFA World Cup,Stuttgart,Germany,True,2006,1
+Portugal,Netherlands,1,0,FIFA World Cup,Nuremberg,Germany,True,2006,1
+Italy,Australia,1,0,FIFA World Cup,Kaiserslautern,Germany,True,2006,1
+Switzerland,Ukraine,0,0,FIFA World Cup,Cologne,Germany,True,2006,0
+Brazil,Ghana,3,0,FIFA World Cup,Dortmund,Germany,True,2006,3
+Spain,France,1,3,FIFA World Cup,Hanover,Germany,True,2006,4
+Germany,Argentina,1,1,FIFA World Cup,Berlin,Germany,False,2006,2
+Italy,Ukraine,3,0,FIFA World Cup,Hamburg,Germany,True,2006,3
+Brazil,France,0,1,FIFA World Cup,Frankfurt am Main,Germany,True,2006,1
+England,Portugal,0,0,FIFA World Cup,Gelsenkirchen,Germany,True,2006,0
+Germany,Italy,0,2,FIFA World Cup,Dortmund,Germany,False,2006,2
+Portugal,France,0,1,FIFA World Cup,Munich,Germany,True,2006,1
+Germany,Portugal,3,1,FIFA World Cup,Stuttgart,Germany,False,2006,4
+Italy,France,1,1,FIFA World Cup,Berlin,Germany,True,2006,2
+South Africa,Mexico,1,1,FIFA World Cup,Johannesburg,South Africa,False,2010,2
+Uruguay,France,0,0,FIFA World Cup,Cape Town,South Africa,True,2010,0
+Argentina,Nigeria,1,0,FIFA World Cup,Johannesburg,South Africa,True,2010,1
+England,United States,1,1,FIFA World Cup,Rustenburg,South Africa,True,2010,2
+South Korea,Greece,2,0,FIFA World Cup,Port Elizabeth,South Africa,True,2010,2
+Algeria,Slovenia,0,1,FIFA World Cup,Polokwane,South Africa,True,2010,1
+Germany,Australia,4,0,FIFA World Cup,Durban,South Africa,True,2010,4
+Serbia,Ghana,0,1,FIFA World Cup,Pretoria,South Africa,True,2010,1
+Italy,Paraguay,1,1,FIFA World Cup,Cape Town,South Africa,True,2010,2
+Japan,Cameroon,1,0,FIFA World Cup,Bloemfontein,South Africa,True,2010,1
+Netherlands,Denmark,2,0,FIFA World Cup,Johannesburg,South Africa,True,2010,2
+Brazil,North Korea,2,1,FIFA World Cup,Johannesburg,South Africa,True,2010,3
+Ivory Coast,Portugal,0,0,FIFA World Cup,Port Elizabeth,South Africa,True,2010,0
+New Zealand,Slovakia,1,1,FIFA World Cup,Rustenburg,South Africa,True,2010,2
+Honduras,Chile,0,1,FIFA World Cup,Nelspruit,South Africa,True,2010,1
+South Africa,Uruguay,0,3,FIFA World Cup,Pretoria,South Africa,False,2010,3
+Spain,Switzerland,0,1,FIFA World Cup,Durban,South Africa,True,2010,1
+Argentina,South Korea,4,1,FIFA World Cup,Johannesburg,South Africa,True,2010,5
+France,Mexico,0,2,FIFA World Cup,Polokwane,South Africa,True,2010,2
+Greece,Nigeria,2,1,FIFA World Cup,Bloemfontein,South Africa,True,2010,3
+England,Algeria,0,0,FIFA World Cup,Cape Town,South Africa,True,2010,0
+Germany,Serbia,0,1,FIFA World Cup,Port Elizabeth,South Africa,True,2010,1
+Slovenia,United States,2,2,FIFA World Cup,Johannesburg,South Africa,True,2010,4
+Cameroon,Denmark,1,2,FIFA World Cup,Pretoria,South Africa,True,2010,3
+Ghana,Australia,1,1,FIFA World Cup,Rustenburg,South Africa,True,2010,2
+Netherlands,Japan,1,0,FIFA World Cup,Durban,South Africa,True,2010,1
+Brazil,Ivory Coast,3,1,FIFA World Cup,Johannesburg,South Africa,True,2010,4
+Italy,New Zealand,1,1,FIFA World Cup,Nelspruit,South Africa,True,2010,2
+Slovakia,Paraguay,0,2,FIFA World Cup,Bloemfontein,South Africa,True,2010,2
+Chile,Switzerland,1,0,FIFA World Cup,Port Elizabeth,South Africa,True,2010,1
+Portugal,North Korea,7,0,FIFA World Cup,Cape Town,South Africa,True,2010,7
+Spain,Honduras,2,0,FIFA World Cup,Johannesburg,South Africa,True,2010,2
+Greece,Argentina,0,2,FIFA World Cup,Polokwane,South Africa,True,2010,2
+Mexico,Uruguay,0,1,FIFA World Cup,Rustenburg,South Africa,True,2010,1
+Nigeria,South Korea,2,2,FIFA World Cup,Durban,South Africa,True,2010,4
+South Africa,France,2,1,FIFA World Cup,Bloemfontein,South Africa,False,2010,3
+Australia,Serbia,2,1,FIFA World Cup,Nelspruit,South Africa,True,2010,3
+Ghana,Germany,0,1,FIFA World Cup,Johannesburg,South Africa,True,2010,1
+Slovenia,England,0,1,FIFA World Cup,Port Elizabeth,South Africa,True,2010,1
+United States,Algeria,1,0,FIFA World Cup,Pretoria,South Africa,True,2010,1
+Cameroon,Netherlands,1,2,FIFA World Cup,Cape Town,South Africa,True,2010,3
+Denmark,Japan,1,3,FIFA World Cup,Rustenburg,South Africa,True,2010,4
+Paraguay,New Zealand,0,0,FIFA World Cup,Polokwane,South Africa,True,2010,0
+Slovakia,Italy,3,2,FIFA World Cup,Johannesburg,South Africa,True,2010,5
+Chile,Spain,1,2,FIFA World Cup,Pretoria,South Africa,True,2010,3
+North Korea,Ivory Coast,0,3,FIFA World Cup,Nelspruit,South Africa,True,2010,3
+Portugal,Brazil,0,0,FIFA World Cup,Durban,South Africa,True,2010,0
+Switzerland,Honduras,0,0,FIFA World Cup,Bloemfontein,South Africa,True,2010,0
+Uruguay,South Korea,2,1,FIFA World Cup,Port Elizabeth,South Africa,True,2010,3
+United States,Ghana,1,2,FIFA World Cup,Rustenburg,South Africa,True,2010,3
+Argentina,Mexico,3,1,FIFA World Cup,Johannesburg,South Africa,True,2010,4
+Germany,England,4,1,FIFA World Cup,Bloemfontein,South Africa,True,2010,5
+Brazil,Chile,3,0,FIFA World Cup,Johannesburg,South Africa,True,2010,3
+Netherlands,Slovakia,2,1,FIFA World Cup,Durban,South Africa,True,2010,3
+Paraguay,Japan,0,0,FIFA World Cup,Pretoria,South Africa,True,2010,0
+Spain,Portugal,1,0,FIFA World Cup,Cape Town,South Africa,True,2010,1
+Netherlands,Brazil,2,1,FIFA World Cup,Port Elizabeth,South Africa,True,2010,3
+Uruguay,Ghana,1,1,FIFA World Cup,Johannesburg,South Africa,True,2010,2
+Argentina,Germany,0,4,FIFA World Cup,Cape Town,South Africa,True,2010,4
+Paraguay,Spain,0,1,FIFA World Cup,Johannesburg,South Africa,True,2010,1
+Uruguay,Netherlands,2,3,FIFA World Cup,Cape Town,South Africa,True,2010,5
+Germany,Spain,0,1,FIFA World Cup,Durban,South Africa,True,2010,1
+Uruguay,Germany,2,3,FIFA World Cup,Port Elizabeth,South Africa,True,2010,5
+Netherlands,Spain,0,1,FIFA World Cup,Johannesburg,South Africa,True,2010,1
+Brazil,Croatia,3,1,FIFA World Cup,São Paulo,Brazil,False,2014,4
+Chile,Australia,3,1,FIFA World Cup,Cuiabá,Brazil,True,2014,4
+Mexico,Cameroon,1,0,FIFA World Cup,Natal,Brazil,True,2014,1
+Spain,Netherlands,1,5,FIFA World Cup,Salvador,Brazil,True,2014,6
+Colombia,Greece,3,0,FIFA World Cup,Belo Horizonte,Brazil,True,2014,3
+England,Italy,1,2,FIFA World Cup,Manaus,Brazil,True,2014,3
+Ivory Coast,Japan,2,1,FIFA World Cup,Recife,Brazil,True,2014,3
+Uruguay,Costa Rica,1,3,FIFA World Cup,Fortaleza,Brazil,True,2014,4
+Argentina,Bosnia and Herzegovina,2,1,FIFA World Cup,Rio de Janeiro,Brazil,True,2014,3
+France,Honduras,3,0,FIFA World Cup,Porto Alegre,Brazil,True,2014,3
+Switzerland,Ecuador,2,1,FIFA World Cup,Brasília,Brazil,True,2014,3
+Germany,Portugal,4,0,FIFA World Cup,Salvador,Brazil,True,2014,4
+Ghana,United States,1,2,FIFA World Cup,Natal,Brazil,True,2014,3
+Iran,Nigeria,0,0,FIFA World Cup,Curitiba,Brazil,True,2014,0
+Belgium,Algeria,2,1,FIFA World Cup,Belo Horizonte,Brazil,True,2014,3
+Brazil,Mexico,0,0,FIFA World Cup,Fortaleza,Brazil,False,2014,0
+Russia,South Korea,1,1,FIFA World Cup,Cuiabá,Brazil,True,2014,2
+Australia,Netherlands,2,3,FIFA World Cup,Curitiba,Brazil,True,2014,5
+Cameroon,Croatia,0,4,FIFA World Cup,Manaus,Brazil,True,2014,4
+Spain,Chile,0,2,FIFA World Cup,Rio de Janeiro,Brazil,True,2014,2
+Colombia,Ivory Coast,2,1,FIFA World Cup,Brasília,Brazil,True,2014,3
+Japan,Greece,0,0,FIFA World Cup,Natal,Brazil,True,2014,0
+Uruguay,England,2,1,FIFA World Cup,São Paulo,Brazil,True,2014,3
+Honduras,Ecuador,1,2,FIFA World Cup,Curitiba,Brazil,True,2014,3
+Italy,Costa Rica,0,1,FIFA World Cup,Recife,Brazil,True,2014,1
+Switzerland,France,2,5,FIFA World Cup,Salvador,Brazil,True,2014,7
+Argentina,Iran,1,0,FIFA World Cup,Belo Horizonte,Brazil,True,2014,1
+Germany,Ghana,2,2,FIFA World Cup,Fortaleza,Brazil,True,2014,4
+Nigeria,Bosnia and Herzegovina,1,0,FIFA World Cup,Cuiabá,Brazil,True,2014,1
+Belgium,Russia,1,0,FIFA World Cup,Rio de Janeiro,Brazil,True,2014,1
+South Korea,Algeria,2,4,FIFA World Cup,Porto Alegre,Brazil,True,2014,6
+United States,Portugal,2,2,FIFA World Cup,Manaus,Brazil,True,2014,4
+Australia,Spain,0,3,FIFA World Cup,Curitiba,Brazil,True,2014,3
+Brazil,Cameroon,4,1,FIFA World Cup,Brasília,Brazil,False,2014,5
+Croatia,Mexico,1,3,FIFA World Cup,Recife,Brazil,True,2014,4
+Netherlands,Chile,2,0,FIFA World Cup,São Paulo,Brazil,True,2014,2
+Costa Rica,England,0,0,FIFA World Cup,Belo Horizonte,Brazil,True,2014,0
+Greece,Ivory Coast,2,1,FIFA World Cup,Fortaleza,Brazil,True,2014,3
+Italy,Uruguay,0,1,FIFA World Cup,Natal,Brazil,True,2014,1
+Japan,Colombia,1,4,FIFA World Cup,Cuiabá,Brazil,True,2014,5
+Bosnia and Herzegovina,Iran,3,1,FIFA World Cup,Salvador,Brazil,True,2014,4
+Ecuador,France,0,0,FIFA World Cup,Rio de Janeiro,Brazil,True,2014,0
+Honduras,Switzerland,0,3,FIFA World Cup,Manaus,Brazil,True,2014,3
+Nigeria,Argentina,2,3,FIFA World Cup,Porto Alegre,Brazil,True,2014,5
+Algeria,Russia,1,1,FIFA World Cup,Curitiba,Brazil,True,2014,2
+South Korea,Belgium,0,1,FIFA World Cup,São Paulo,Brazil,True,2014,1
+Portugal,Ghana,2,1,FIFA World Cup,Brasília,Brazil,True,2014,3
+United States,Germany,0,1,FIFA World Cup,Recife,Brazil,True,2014,1
+Brazil,Chile,1,1,FIFA World Cup,Belo Horizonte,Brazil,False,2014,2
+Colombia,Uruguay,2,0,FIFA World Cup,Rio de Janeiro,Brazil,True,2014,2
+Costa Rica,Greece,1,1,FIFA World Cup,Recife,Brazil,True,2014,2
+Netherlands,Mexico,2,1,FIFA World Cup,Fortaleza,Brazil,True,2014,3
+France,Nigeria,2,0,FIFA World Cup,Brasília,Brazil,True,2014,2
+Germany,Algeria,2,1,FIFA World Cup,Porto Alegre,Brazil,True,2014,3
+Argentina,Switzerland,1,0,FIFA World Cup,São Paulo,Brazil,True,2014,1
+Belgium,United States,2,1,FIFA World Cup,Salvador,Brazil,True,2014,3
+Brazil,Colombia,2,1,FIFA World Cup,Fortaleza,Brazil,False,2014,3
+France,Germany,0,1,FIFA World Cup,Rio de Janeiro,Brazil,True,2014,1
+Argentina,Belgium,1,0,FIFA World Cup,Brasília,Brazil,True,2014,1
+Netherlands,Costa Rica,0,0,FIFA World Cup,Salvador,Brazil,True,2014,0
+Brazil,Germany,1,7,FIFA World Cup,Belo Horizonte,Brazil,False,2014,8
+Netherlands,Argentina,0,0,FIFA World Cup,São Paulo,Brazil,True,2014,0
+Brazil,Netherlands,0,3,FIFA World Cup,Brasília,Brazil,False,2014,3
+Germany,Argentina,1,0,FIFA World Cup,Rio de Janeiro,Brazil,True,2014,1
+Russia,Saudi Arabia,5,0,FIFA World Cup,Moscow,Russia,False,2018,5
+Egypt,Uruguay,0,1,FIFA World Cup,Ekaterinburg,Russia,True,2018,1
+Morocco,Iran,0,1,FIFA World Cup,Saint Petersburg,Russia,True,2018,1
+Portugal,Spain,3,3,FIFA World Cup,Sochi,Russia,True,2018,6
+France,Australia,2,1,FIFA World Cup,Kazan,Russia,True,2018,3
+Argentina,Iceland,1,1,FIFA World Cup,Moscow,Russia,True,2018,2
+Peru,Denmark,0,1,FIFA World Cup,Saransk,Russia,True,2018,1
+Croatia,Nigeria,2,0,FIFA World Cup,Kaliningrad,Russia,True,2018,2
+Costa Rica,Serbia,0,1,FIFA World Cup,Samara,Russia,True,2018,1
+Germany,Mexico,0,1,FIFA World Cup,Moscow,Russia,True,2018,1
+Brazil,Switzerland,1,1,FIFA World Cup,Rostov-on-Don,Russia,True,2018,2
+Sweden,South Korea,1,0,FIFA World Cup,Nizhny Novgorod,Russia,True,2018,1
+Belgium,Panama,3,0,FIFA World Cup,Sochi,Russia,True,2018,3
+Tunisia,England,1,2,FIFA World Cup,Volgograd,Russia,True,2018,3
+Colombia,Japan,1,2,FIFA World Cup,Saransk,Russia,True,2018,3
+Poland,Senegal,1,2,FIFA World Cup,Moscow,Russia,True,2018,3
+Russia,Egypt,3,1,FIFA World Cup,Saint Petersburg,Russia,False,2018,4
+Portugal,Morocco,1,0,FIFA World Cup,Moscow,Russia,True,2018,1
+Uruguay,Saudi Arabia,1,0,FIFA World Cup,Rostov-on-Don,Russia,True,2018,1
+Iran,Spain,0,1,FIFA World Cup,Kazan,Russia,True,2018,1
+Denmark,Australia,1,1,FIFA World Cup,Samara,Russia,True,2018,2
+France,Peru,1,0,FIFA World Cup,Ekaterinburg,Russia,True,2018,1
+Argentina,Croatia,0,3,FIFA World Cup,Nizhny Novgorod,Russia,True,2018,3
+Brazil,Costa Rica,2,0,FIFA World Cup,Saint Petersburg,Russia,True,2018,2
+Nigeria,Iceland,2,0,FIFA World Cup,Volgograd,Russia,True,2018,2
+Serbia,Switzerland,1,2,FIFA World Cup,Kaliningrad,Russia,True,2018,3
+Belgium,Tunisia,5,2,FIFA World Cup,Moscow,Russia,True,2018,7
+South Korea,Mexico,1,2,FIFA World Cup,Rostov-on-Don,Russia,True,2018,3
+Germany,Sweden,2,1,FIFA World Cup,Sochi,Russia,True,2018,3
+England,Panama,6,1,FIFA World Cup,Nizhny Novgorod,Russia,True,2018,7
+Japan,Senegal,2,2,FIFA World Cup,Ekaterinburg,Russia,True,2018,4
+Poland,Colombia,0,3,FIFA World Cup,Kazan,Russia,True,2018,3
+Russia,Uruguay,0,3,FIFA World Cup,Samara,Russia,False,2018,3
+Saudi Arabia,Egypt,2,1,FIFA World Cup,Volgograd,Russia,True,2018,3
+Spain,Morocco,2,2,FIFA World Cup,Kaliningrad,Russia,True,2018,4
+Iran,Portugal,1,1,FIFA World Cup,Saransk,Russia,True,2018,2
+Australia,Peru,0,2,FIFA World Cup,Sochi,Russia,True,2018,2
+Denmark,France,0,0,FIFA World Cup,Moscow,Russia,True,2018,0
+Nigeria,Argentina,1,2,FIFA World Cup,Saint Petersburg,Russia,True,2018,3
+Iceland,Croatia,1,2,FIFA World Cup,Rostov-on-Don,Russia,True,2018,3
+South Korea,Germany,2,0,FIFA World Cup,Kazan,Russia,True,2018,2
+Mexico,Sweden,0,3,FIFA World Cup,Ekaterinburg,Russia,True,2018,3
+Serbia,Brazil,0,2,FIFA World Cup,Moscow,Russia,True,2018,2
+Switzerland,Costa Rica,2,2,FIFA World Cup,Nizhny Novgorod,Russia,True,2018,4
+Japan,Poland,0,1,FIFA World Cup,Volgograd,Russia,True,2018,1
+Senegal,Colombia,0,1,FIFA World Cup,Samara,Russia,True,2018,1
+Panama,Tunisia,1,2,FIFA World Cup,Saransk,Russia,True,2018,3
+England,Belgium,0,1,FIFA World Cup,Kaliningrad,Russia,True,2018,1
+France,Argentina,4,3,FIFA World Cup,Kazan,Russia,True,2018,7
+Uruguay,Portugal,2,1,FIFA World Cup,Sochi,Russia,True,2018,3
+Russia,Spain,1,1,FIFA World Cup,Moscow,Russia,False,2018,2
+Croatia,Denmark,1,1,FIFA World Cup,Nizhny Novgorod,Russia,True,2018,2
+Brazil,Mexico,2,0,FIFA World Cup,Samara,Russia,True,2018,2
+Belgium,Japan,3,2,FIFA World Cup,Rostov-on-Don,Russia,True,2018,5
+Sweden,Switzerland,1,0,FIFA World Cup,Saint Petersburg,Russia,True,2018,1
+Colombia,England,1,1,FIFA World Cup,Moscow,Russia,True,2018,2
+Uruguay,France,0,2,FIFA World Cup,Nizhny Novgorod,Russia,True,2018,2
+Brazil,Belgium,1,2,FIFA World Cup,Kazan,Russia,True,2018,3
+Sweden,England,0,2,FIFA World Cup,Samara,Russia,True,2018,2
+Russia,Croatia,2,2,FIFA World Cup,Sochi,Russia,False,2018,4
+France,Belgium,1,0,FIFA World Cup,Saint Petersburg,Russia,True,2018,1
+Croatia,England,2,1,FIFA World Cup,Moscow,Russia,True,2018,3
+Belgium,England,2,0,FIFA World Cup,Saint Petersburg,Russia,True,2018,2
+France,Croatia,4,2,FIFA World Cup,Moscow,Russia,True,2018,6
